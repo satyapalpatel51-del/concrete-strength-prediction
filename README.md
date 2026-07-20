@@ -3,7 +3,7 @@
 A machine learning project that predicts concrete compressive strength (MPa) from mix design inputs, with a deployed Streamlit web app.
 
 ## 🔗 Live App
-[Try the live predictor here](YAHAN_APNA_STREAMLIT_URL_PASTE_KARO)
+[Try the live predictor here](https://concrete-strength-prediction-satyapaldjmtfoujncf6.streamlit.app/)
 
 ## 📌 Problem Statement
 Concrete compressive strength is a highly nonlinear function of its ingredients and curing age. Traditional trial-batch testing to determine mix strength is time-consuming and costly. This project builds a regression model to predict strength directly from mix design values, helping engineers estimate outcomes before physical testing.
